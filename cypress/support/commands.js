@@ -13,4 +13,5 @@ Cypress.Commands.add('login', () => {
   }
 
   cy.session(username, login)
+  cy.visit('/')
 })

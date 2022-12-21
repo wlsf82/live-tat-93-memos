@@ -1,0 +1,52 @@
+{
+  "data": [
+     {
+        "id": 1,
+        "rowStatus": "ARCHIVED",
+        "creatorId": 101,
+        "createdTs": 1671573676,
+        "updatedTs": 1671662151,
+        "content": "Sample 1",
+        "visibility": "PUBLIC",
+        "pinned": false,
+        "displayTs": 1671573676,
+        "creator": {
+           "id": 101,
+           "rowStatus": "NORMAL",
+           "createdTs": 1671549535,
+           "updatedTs": 1671549535,
+           "username": "demohero",
+           "role": "HOST",
+           "email": "",
+           "nickname": "Demo Hero",
+           "openId": "",
+           "userSettingList": null
+        },
+        "resourceList": []
+     },
+     {
+      "id": 2,
+      "rowStatus": "ARCHIVED",
+      "creatorId": 101,
+      "createdTs": 1671234567,
+      "updatedTs": 1671234567,
+      "content": "Sample 2",
+      "visibility": "PUBLIC",
+      "pinned": false,
+      "displayTs": 1671234567,
+      "creator": {
+         "id": 101,
+         "rowStatus": "NORMAL",
+         "createdTs": 1671234567,
+         "updatedTs": 1671234567,
+         "username": "demohero",
+         "role": "HOST",
+         "email": "",
+         "nickname": "Demo Hero",
+         "openId": "",
+         "userSettingList": null
+      },
+      "resourceList": []
+   }
+  ]
+}
